@@ -99,22 +99,6 @@ h1 {
     line-height: normal;
 }
 
-.container__imagem-pessoa {
-    max-width: 100%;
-    height: auto;
-    margin-top: 2rem;
-}
-
 button:disabled {
     background-color: gray;
-}
-
-@media screen and (max-width: 1250px) {
-    .container__imagem-pessoa {
-        display: none;
-    }
-
-    h1 {
-        font-size: 50px;
-    }
 }
